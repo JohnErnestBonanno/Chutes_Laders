@@ -1,0 +1,2 @@
+ToDos
+* add a gitignore file to remove the .ipynb_checkpoints
